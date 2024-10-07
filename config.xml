@@ -14,6 +14,10 @@
       <DisplayName>Filip</DisplayName>
       <Email>filip@divversion.com</Email>
     </User>
+    <User Id="a57b0a83-8e3a-4015-9cfc-1e0bfa6cd2af">
+      <DisplayName>Kavi Laud</DisplayName>
+      <Email>kavi@hey.com</Email>
+    </User>
   </Participants>
   <ManagedBranches>
     <BranchSpec>main</BranchSpec>
