@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RepoConfiguration xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>f587f8ac-24d1-4844-89d6-8d1ceb3c2f38</Id>
+  <Name>repo-kavi</Name>
+  <IsPublic>true</IsPublic>
+  <StorageHostId>github</StorageHostId>
+  <StorageName>repo-kavi</StorageName>
+  <RemoteName>divvorigin</RemoteName>
+  <RemoteUrl>https://github.com/frindler/repo-kavi.git</RemoteUrl>
+  <ContentTypes />
+  <MembersKey>OdPPx79SwUyB/lJZ7W/j</MembersKey>
+  <Participants />
+  <ManagedBranches>
+    <BranchSpec>main</BranchSpec>
+  </ManagedBranches>
+  <SynchronizationTrigger>OnCommit</SynchronizationTrigger>
+</RepoConfiguration>
