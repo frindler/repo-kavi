@@ -9,7 +9,12 @@
   <RemoteUrl>https://github.com/frindler/repo-kavi.git</RemoteUrl>
   <ContentTypes />
   <MembersKey>OdPPx79SwUyB/lJZ7W/j</MembersKey>
-  <Participants />
+  <Participants>
+    <User Id="ff106566-e588-4cef-a45c-c47e950c63ca">
+      <DisplayName>Filip</DisplayName>
+      <Email>filip@divversion.com</Email>
+    </User>
+  </Participants>
   <ManagedBranches>
     <BranchSpec>main</BranchSpec>
   </ManagedBranches>
